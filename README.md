@@ -16,3 +16,7 @@ Mobile layout
 React
 
 OpenWeather API
+
+## 📷 Preview
+
+![Weather App Demo](assets/demo-gif.gif)
