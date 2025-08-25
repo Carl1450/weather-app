@@ -19,4 +19,4 @@ OpenWeather API
 
 ## 📷 Preview
 
-![Weather App Demo](/demo-gif.gif)
+![Weather App Demo](demo-gif.gif)
