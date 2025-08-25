@@ -19,4 +19,9 @@ OpenWeather API
 
 ## 📷 Preview
 
-![Weather App Demo](./public/demo-gif.gif)
+<p align="center">
+  <img src="./public/preview-LA.png" alt="Weather App Demo" width="200" />
+  <img src="./public/demo-gif.gif" alt="Weather App Demo" width="200" />
+  <img src="./public/preview-Fairbanks.png" alt="Weather App Demo" width="200" />
+</p>
+
